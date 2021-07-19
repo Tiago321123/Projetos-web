@@ -56,7 +56,7 @@ a:visited{
     color:yellow;
 } */
 .container{
-    width:100%; /*defino se quero que o site cubra a página toda ou então parte dela*/
+    width:80%; /*defino se quero que o site cubra a página toda ou então parte dela*/
     margin: auto; /*deixa equilibrado o tamanho da margem */
 }
 
